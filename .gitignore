@@ -1,0 +1,12 @@
+# python files
+.venv/
+__pycache__
+
+# vim files
+*.unb
+*.swp
+*.un
+*.un~
+
+# ide garbage
+.vscode/
